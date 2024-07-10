@@ -1,3 +1,9 @@
+Flow-on-Auto_Encoder-Latent
+
+
+
+Modular Circuit Diagram:
+
 [Input Image] --> [Spectrum Dataset] --> [Amplitude & Phase Spectra]
                      |                     |                  |
                      v                     v                  v
